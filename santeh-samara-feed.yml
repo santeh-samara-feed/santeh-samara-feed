@@ -1,0 +1,30 @@
+<yml_catalog date="2025-10-28">
+<shop>
+<name>Santeh Samara</name>
+<company>Santeh Samara</company>
+<url>https://www.santeh-samara.ru</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Инсталляции</category>
+<category id="2">Раковины</category>
+<category id="3">Смесители</category>
+<category id="4">Ванны</category>
+<category id="5">Унитазы</category>
+<category id="6">Гигиенические души</category>
+<category id="7">Душевые кабины</category>
+<category id="8">Аксессуары</category>
+</categories>
+<offers>
+<offer id="101" available="true">
+<name>AZARIO GENO (Инсталляция и унитаз)</name>
+<price>24500</price>
+<url>https://santeh-samara.ru/items/35270/installyaciya-i-unitaz-azario-geno</url>
+<picture>https://santeh-samara.ru/images/items/35270.jpg</picture>
+<description>Инсталляция AZ-8010-1000 с клавишей и унитаз GENO с сиденьем с микролифтом...</description>
+<categoryId>1</categoryId>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
